@@ -4,4 +4,4 @@ This project implements a simple neural network from scratch in first python, th
 
 ## Why?
 
-Couldn't tell ya, learning C++ and getting into ML
+idk learning C++ and getting into ML
